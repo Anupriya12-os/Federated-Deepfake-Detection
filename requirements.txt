@@ -1,0 +1,17 @@
+torch
+torchvision
+torchaudio
+numpy
+opencv-python
+facenet-pytorch
+timm
+scikit-learn
+matplotlib
+seaborn
+tqdm
+pillow
+pandas
+scipy
+jupyter
+notebook
+ipykernel
