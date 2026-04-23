@@ -1,6 +1,6 @@
 # Privacy-Preserving Deepfake Video Detection using Federated Spatial–Frequency Feature Learning and Class-Aware Optimization
 
-Official implementation of our paper on privacy-preserving deepfake video detection using Federated Learning, spatial-frequency representations, and class-aware loss learning. The paper is under review at The Visual Computer.
+Official implementation of our paper on privacy-preserving deepfake video detection using Federated Learning, spatial-frequency representations, and class-aware loss learning. The paper has been submitted at Journal The Visual Computer.
 
 ---
 
